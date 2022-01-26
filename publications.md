@@ -9,6 +9,19 @@ navigation_weight: 2
 Publications
 ========
 
+## 2022
+
+<ul class="fa-ul">
+	
+  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+I-SPY COVID Consortium. <a href="" target="_blank"> Clinical trial design during and beyond the pandemic: the I-SPY COVID trial</a>. Nature medicine.
+</li>
+<div style="height:10px"></div>
+
+
+	
+</ul>
+
 
 ## 2021
 
