@@ -12,6 +12,10 @@ Publications
 ## 2022
 
 <ul class="fa-ul">
+
+  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+De Laere B, <b>Crippa A</b>, Discacciati A, Larsson B, Oldenburg J, Mortezavi A, Ost P, Eklund M, Lindberg J, Grönberg H. <a href="" target="_blank"> Clinical Trial Protocol for ProBio: An Outcome-adaptive and Randomised Multiarm Biomarker-driven Study in Patients with Metastatic Prostate Cancer</a>. European Urology Focus. 2022 Mar 19.</li>
+<div style="height:10px"></div>
 	
   <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
 I-SPY COVID Consortium. <a href="" target="_blank"> Clinical trial design during and beyond the pandemic: the I-SPY COVID trial</a>. Nature medicine.
