@@ -29,6 +29,8 @@ Courses
 Useful teaching material
 =====================
 
+- [Lecture notes Biostatistics I: Confounding and Interaction](https://rpubs.com/alecri/892471)
+
 - [Incidence and mortality of Prostate Cancer in Sweden, gif over time](/downloads/map_rate.gif)  
 
 - [Visualizing multivariate logistic regression (document)](http://rpubs.com/alecri/multivLogistic)  
