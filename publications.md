@@ -12,6 +12,9 @@ Publications
 ## 2022
 
 <ul class="fa-ul">
+  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+Mortezavi A, <b>Crippa A</b>, Kotopouli MI, Akre O, Wiklund P, Hosseini A. <a href="" target="_blank"> ssociation of Open vs Robot-Assisted Radical Cystectomy With Mortality and Perioperative Outcomes Among Patients With Bladder Cancer in Sweden</a>. JAMA Netw Open. 2022;5(4):e228959.</li>
+<div style="height:10px"></div>	
 
   <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
 De Laere B, <b>Crippa A</b>, Discacciati A, Larsson B, Oldenburg J, Mortezavi A, Ost P, Eklund M, Lindberg J, Grönberg H. <a href="" target="_blank"> Clinical Trial Protocol for ProBio: An Outcome-adaptive and Randomised Multiarm Biomarker-driven Study in Patients with Metastatic Prostate Cancer</a>. European Urology Focus. 2022 Mar 19.</li>
