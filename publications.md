@@ -13,7 +13,7 @@ Publications
 
 <ul class="fa-ul">
   <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
-Mortezavi A, <b>Crippa A</b>, Kotopouli MI, Akre O, Wiklund P, Hosseini A. <a href="" target="_blank"> ssociation of Open vs Robot-Assisted Radical Cystectomy With Mortality and Perioperative Outcomes Among Patients With Bladder Cancer in Sweden</a>. JAMA Netw Open. 2022;5(4):e228959.</li>
+Mortezavi A, <b>Crippa A</b>, Kotopouli MI, Akre O, Wiklund P, Hosseini A. <a href="" target="_blank"> Association of Open vs Robot-Assisted Radical Cystectomy With Mortality and Perioperative Outcomes Among Patients With Bladder Cancer in Sweden</a>. JAMA Netw Open. 2022;5(4):e228959.</li>
 <div style="height:10px"></div>	
 
   <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
