@@ -6,8 +6,10 @@ menu: main
 navigation_weight: 6
 ---
 
-Courses
+Courses/Workshops
 =====================
+
+- [A modern demonstration of R for epidemiologists](https://rpubs.com/alecri/introR-epi-dis)
 
 - [ Statistical Methods for Meta-Analysis](/courses/meta-analysis.pdf)    [[R code]](https://rpubs.com/alecri/code_meta)     [[Stata code](/courses/code_suppl_meta_stata.html)] 
 
