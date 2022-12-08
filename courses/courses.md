@@ -15,7 +15,7 @@ Courses/Workshops
 
 - [An introduction to R, Rmarkdown, and Shiny](/courses/R_md_shiny.html)
 
-- [A not so short review on survival analysis in R](http://rpubs.com/alecri/258589)        [[R script]](/courses/review_survival.R) [[.txt]](/courses/review_survival.txt)  
+- [A not so short review on survival analysis in R](https://rpubs.com/alecri/review_survival)        [[R script]](/courses/review_survival.R) [[.txt]](/courses/review_survival.txt)  
 
 - [Studying Mediation in Intervention Evaluation](/courses/mediation.pdf)    [[R script]](/courses/mediation.R)  
 
