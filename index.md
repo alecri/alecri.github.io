@@ -28,9 +28,9 @@ Contact
 
 [MEB - Department of Medical Epidemiology and Biostatistics](https://ki.se/en/meb/startpage)  
 [Karolinska Institutet](http://ki.se/start)  
-**Visiting address** : Nobels väg 12A, 171 65 Solna, Sweden  
-**Phone**: 	+46(0)852482264  
-**Mobile**: 	+46(0)720282766  
+**Visiting address** : Nobels väg 12A, SE-17177 Stockholm
+**Phone**: 	+46-8-524 82264  
+**Mobile**: +46-7-202 82766  
 **Email**: <a href="mailto:alessio.crippa@ki.se">alessio.crippa<span class="at">@</span>ki.se</a> or
 <a href="mailto:alessio.crippa@gmail.com">alessio.crippa<span class="at">@</span>gmail.com</a>  
 
