@@ -9,6 +9,8 @@ navigation_weight: 6
 Courses/Workshops
 =====================
 
+- Categorical Data analysis - [slide 1](/downloads/02_01_intro_categorical_data.pdf)  [slide 2](/downloads/02_02_simple_logistic_regression.pdf) [slide 3](02_03_multivariable_logistic_regression.pdf) [R code](https://rpubs.com/alecri/logistic)
+
 - [A modern demonstration of R for epidemiologists](https://rpubs.com/alecri/introR-epi-dis)
 
 - [ Statistical Methods for Meta-Analysis](/courses/meta-analysis.pdf)    [[R code]](https://rpubs.com/alecri/code_meta)     [[Stata code](/courses/code_suppl_meta_stata.html)] 
