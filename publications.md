@@ -9,9 +9,30 @@ navigation_weight: 2
 Publications
 ========
 
+## 2023
+
+<ul class="fa-ul">
+  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+Sachs MC, Gabriel EE, <b>Crippa A</b>, Daniels MJ. <a href="" target="_blank"> Flexible evaluation of surrogacy in platform studies</a>. Biostatistics. 2023 Jan 4.</li>
+<div style="height:10px"></div>		
+
+  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+Sabé M, Pallis K, Solmi M, <b>Crippa A</b>, Sentissi O, Kaiser S. <a href="" target="_blank"> Comparative Effects of 11 Antipsychotics on Weight Gain and Metabolic Function in Patients With Acute Schizophrenia: A Dose-Response Meta-Analysis</a>. JThe Journal of Clinical Psychiatry. 2023 Feb 8;84(2):45463.</li>
+<div style="height:10px"></div>		
+
+</ul>
+
 ## 2022
 
 <ul class="fa-ul">
+  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+Files DC, Matthay MA, Calfee CS, Aggarwal NR, Asare AL, Beitler JR, Berger PA, Burnham EL, Cimino G, Coleman MH, <b>Crippa A</b>. <a href="" target="_blank"> I-SPY COVID adaptive platform trial for COVID-19 acute respiratory failure: rationale, design and operations</a>. BMJ open. 2022 Jun 1;12(6):e060664.</li>
+<div style="height:10px"></div>	
+
+  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+Vigneswaran HT, Mittelstaedt L, <b>Crippa A</b>, Eklund M, Vidal A, Freedland SJ, Abern MR. <a href="" target="_blank"> Progression on active surveillance for prostate cancer in Black men: a systematic review and meta-analysis</a>. Prostate Cancer and Prostatic Diseases. 2022 Jun;25(2):165-73.</li>
+<div style="height:10px"></div>	
+
   <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
 Mortezavi A, <b>Crippa A</b>, Kotopouli MI, Akre O, Wiklund P, Hosseini A. <a href="" target="_blank"> Association of Open vs Robot-Assisted Radical Cystectomy With Mortality and Perioperative Outcomes Among Patients With Bladder Cancer in Sweden</a>. JAMA Netw Open. 2022;5(4):e228959.</li>
 <div style="height:10px"></div>	
@@ -19,13 +40,15 @@ Mortezavi A, <b>Crippa A</b>, Kotopouli MI, Akre O, Wiklund P, Hosseini A. <a hr
   <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
 De Laere B, <b>Crippa A</b>, Discacciati A, Larsson B, Oldenburg J, Mortezavi A, Ost P, Eklund M, Lindberg J, Grönberg H. <a href="" target="_blank"> Clinical Trial Protocol for ProBio: An Outcome-adaptive and Randomised Multiarm Biomarker-driven Study in Patients with Metastatic Prostate Cancer</a>. European Urology Focus. 2022 Mar 19.</li>
 <div style="height:10px"></div>
+
+  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+Calfee CS, Eklund M, Albertson TE, Auld S, Beitler JR, Berger PA, Burnham EL, Cobb NK, <b>Crippa A</b>, Daniel BM, Discacciati A. <a href="" target="_blank"> The I-SPY COVID Trial: First Results from an Adaptive Platform Phase 2 Trial for Severe COVID-19</a>. InD94. PANDEMIC OUTPUT: ALL THAT IS COVID-19 2022 May (pp. A5284-A5284). American Thoracic Society.</li>
+<div style="height:10px"></div>
 	
   <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
 I-SPY COVID Consortium. <a href="" target="_blank"> Clinical trial design during and beyond the pandemic: the I-SPY COVID trial</a>. Nature medicine.
 </li>
 <div style="height:10px"></div>
-
-
 	
 </ul>
 
