@@ -9,9 +9,14 @@ navigation_weight: 2
 Publications
 ========
 
+
 ## 2023
 
 <ul class="fa-ul">
+  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+Garcia L, Pearce M, Abbas A, Mok A, Strain T, Ali S, <b>Crippa A</b>, Dempsey PC, Golubic R, Kelly P, Laird Y, McNamara E, Moore S, de Sa TH, Smith AD, Wijndaele K, Woodcock J, Brage S. <a href="" target="_blank"> Non-occupational physical activity and risk of cardiovascular disease, cancer and mortality outcomes: a dose-response meta-analysis of large prospective studies</a>. Br J Sports Med. 2023 Feb 28:bjsports-2022-105669.</li>
+<div style="height:10px"></div>		
+
   <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
 Sachs MC, Gabriel EE, <b>Crippa A</b>, Daniels MJ. <a href="" target="_blank"> Flexible evaluation of surrogacy in platform studies</a>. Biostatistics. 2023 Jan 4.</li>
 <div style="height:10px"></div>		
