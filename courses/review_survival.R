@@ -11,9 +11,9 @@ knitr::purl("review_survival.qmd")
 
 ## ----load packages, message=FALSE---------------------------------------------------------------------------------------
 if (!require(pacman)) install.packages("pacman")
-pacman::p_load(tidyverse, survival, ggfortify, ggsurvfit, survminer, plotly, gridExtra, 
-               Epi, KMsurv, gnm, cmprsk, mstate, flexsurv, splines, epitools, 
-               eha, shiny, ctqr, scales, patchwork, DiagrammeR)
+pacman::p_load(tidyverse, plotly, shiny, scales, patchwork, DiagrammeR,
+               survival, KMsurv, flexsurv, eha, ctqr, cmprsk, mstate, ggsurvfit, survminer, 
+               Epi, epitools, gnm, splines)
 theme_set(theme_classic() + theme(legend.position = "bottom"))
 
 
@@ -134,7 +134,7 @@ round(dat_lt, 4)
 fit_fh <- survfit(Surv(time, all) ~ 1, data = orca, type = "fleming-harrington", conf.type = "log-log")
 dat_fh <- tidy(fit_fh)
 ## for the Nelson-Aalen estimator of the cumulative hazard
-#dat_fh <- fortify(fit_fh, fun = "cumhaz")
+#dat_fh <- tidy_survfit(fit_fh, type = "cumhaz")
 head(dat_fh)
 
 
@@ -289,7 +289,7 @@ surv_summary(survfit(m2, newdata = newd)) %>%
   merge(newd, by.x = "strata", by.y = "id") %>%
   ggplot(aes(x = time, y = surv, col = sex, linetype = factor(age))) +
   geom_step() + facet_grid(. ~ st3) +
-  labs(x = "Time (years)", y = "Survival probability")
+  labs(x = "Time (years)", y = "Survival probability", linetype = "Age (years")
 
 
 ## ----weibull model------------------------------------------------------------------------------------------------------
@@ -364,7 +364,7 @@ ggplot(blhazs, aes(x = newd$time, y = Estimate)) + geom_line() +
 
 ## ----predicted survivals------------------------------------------------------------------------------------------------
 newd <- data.frame(sex = "Female", age = 65, st3 = "I+II")
-surv_cox <- fortify(survfit(m2, newdata = newd))
+surv_cox <- tidy(survfit(m2, newdata = newd))
 surv_weibull <- summary(m2w, newdata = newd, tidy = TRUE)
 ## For the poisson model we need some extra steps
 tbmid <- sort(unique(.5*(orca_splitted$tstart + orca_splitted$time)))
@@ -374,7 +374,7 @@ surv_poisson <- data.frame(exp(-Lambda))
 
 
 ## ----plot predicted survivals-------------------------------------------------------------------------------------------
-ggplot(surv_cox, aes(time, surv)) + geom_step(aes(col = "Cox")) +
+ggplot(surv_cox, aes(time, estimate)) + geom_step(aes(col = "Cox")) +
   geom_line(data = surv_weibull, aes(y = est, col = "Weibull")) +
   geom_line(data = surv_poisson, aes(x = c(0, tbmid[-1]), y = Estimate, col = "Poisson")) +
   labs(x = "Time (years)", y = "Survival", col = "Models")
@@ -387,7 +387,6 @@ library(splines)
 library(Epi)
 library(survival)
 library(flexsurv)
-library(ggfortify)
 
 shinyApp(
   
@@ -426,7 +425,7 @@ shinyApp(
     
     output$survPlot <- renderPlot({
       newd <- newd()
-      surv_cox <- fortify(survfit(m2, newdata = newd))
+      surv_cox <- tidy(survfit(m2, newdata = newd))
       surv_weibull <- summary(m2w, newdata = newd, tidy = TRUE)
       tbmid <- sort(unique(.5*(orca_splitted$tstart + orca_splitted$time)))
       mat <- cbind(1, ns(tbmid, knots = k), 1*(input$sex == "Male"), (input$age - 65)/10, 
@@ -434,7 +433,7 @@ shinyApp(
       Lambda <- ci.cum(mod_poi2s, ctr.mat = mat, intl = diff(c(0, tbmid)))
       surv_poisson <- data.frame(exp(-Lambda))
       
-      ggplot(surv_cox, aes(time, surv)) + geom_step(aes(col = "Cox")) +
+      ggplot(surv_cox, aes(time, estimate)) + geom_step(aes(col = "Cox")) +
         geom_line(data = surv_weibull, aes(y = est, col = "Weibull")) +
         geom_line(data = surv_poisson, aes(x = c(0, tbmid[-1]), y = Estimate, col = "Poisson")) +
         labs(x = "Time (years)", y = "Survival", col = "Models")
