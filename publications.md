@@ -14,6 +14,14 @@ Publications
 
 <ul class="fa-ul">
   <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+Dembrower K, <b>Crippa A</b>, Colón E, Eklund M, Strand F. <a href="" target="_blank"> ScreenTrustCAD Trial Consortium. Artificial intelligence for breast cancer detection in screening mammography in Sweden: a prospective, population-based, paired-reader, non-inferiority study</a>. Lancet Digit Health. 2023 Sep 8:S2589-7500(23)00153-X. doi: 10.1016/S2589-7500(23)00153-X</li>
+<div style="height:10px"></div>		
+	
+  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+Hammarström M, Gabrielson M, <b>Crippa A</b>, Discacciati A, Eklund M, Lundholm C, Bäcklund M, Wengström Y, Borgquist S, Bergqvist J, Eriksson M, Tapia J, Czene K, Hall P. <a href="" target="_blank"> Side effects of low-dose tamoxifen: results from a six-armed randomised controlled trial in healthy women</a>. Br J Cancer. 2023 Jul;129(1):61-71. doi: 10.1038/s41416-023-02293-z</li>
+<div style="height:10px"></div>		
+
+  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
 Garcia L, Pearce M, Abbas A, Mok A, Strain T, Ali S, <b>Crippa A</b>, Dempsey PC, Golubic R, Kelly P, Laird Y, McNamara E, Moore S, de Sa TH, Smith AD, Wijndaele K, Woodcock J, Brage S. <a href="" target="_blank"> Non-occupational physical activity and risk of cardiovascular disease, cancer and mortality outcomes: a dose-response meta-analysis of large prospective studies</a>. Br J Sports Med. 2023 Feb 28:bjsports-2022-105669.</li>
 <div style="height:10px"></div>		
 
