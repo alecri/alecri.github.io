@@ -14,6 +14,10 @@ Publications
 
 <ul class="fa-ul">
   <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+Lehner F, <b>Crippa A</b>, Sigg S, Eberli D, Mortezavi A. <a href="" target="_blank"> Transperineal template saturation and conventional biopsy for stage prediction in prostate cancer</a>. BJU Int. 2023 Sep 13. doi: 10.1111/bju.16181</li>
+<div style="height:10px"></div>		
+	
+  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
 Dembrower K, <b>Crippa A</b>, Colón E, Eklund M, Strand F. <a href="" target="_blank"> ScreenTrustCAD Trial Consortium. Artificial intelligence for breast cancer detection in screening mammography in Sweden: a prospective, population-based, paired-reader, non-inferiority study</a>. Lancet Digit Health. 2023 Sep 8:S2589-7500(23)00153-X. doi: 10.1016/S2589-7500(23)00153-X</li>
 <div style="height:10px"></div>		
 	
