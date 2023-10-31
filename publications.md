@@ -75,11 +75,6 @@ I-SPY COVID Consortium. <a href="" target="_blank"> Clinical trial design during
 <ul class="fa-ul">
 	
   <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
-Vigneswaran HT, Mittelstaedt L, <b>Crippa A</b>, Eklund M, Vidal A, Freedland SJ, Abern MR. <a href="" target="_blank"> Progression on active surveillance for prostate cancer in Black men: a systematic review and meta-analysis</a>. Prostate cancer and prostatic diseases. 2021 Jul 8:1-9.
-</li>
-<div style="height:10px"></div>
-
-  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
 Sabe, M., Zhao, N., <b>Crippa A</b>, Strauss, G.P. and Kaiser, S. <a href="" target="_blank"> Intranasal oxytocin for negative symptoms of schizophrenia: systematic review, meta-analysis and dose-response meta-analysis of randomized controlled trials.</a>. International Journal of Neuropsychopharmacology. 2021.
 </li>
 <div style="height:10px"></div>
