@@ -36,6 +36,8 @@ Extensions to meta-regression models and alternative estimation procedures are i
 
 The links below demonstrate how the models, methods, and techniques described in the respective articles/chapters can be applied via the `dosresmeta` package. The examples are run using dosresmeta version 2.0.0 avaiable on GitHub.
 
+* [Orsini, N. Weighted mixed-effects dose-response models for tables of correlated contrasts. Stata Journal. 2021, Vol.21 (2), p.320-347.](https://rpubs.com/alecri/drmeta)
+
 * [Berlin JA, Longnecker MP, Greenland S. Meta-analysis of epidemiologic dose-response data. Epidemiology. 1993 May 1:218-28](http://rpubs.com/alecri/berlin)
 
 * [Orsini, N., Bellocco, R., & Greenland, S. Generalized least squares for trend estimation of summarized dose-response data. 2006 Stata Journal, 6(1), 40.](http://rpubs.com/alecri/glst)
