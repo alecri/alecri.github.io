@@ -30,6 +30,23 @@ Courses/Workshops
 
 <div style="height:50px"></div>
 
+
+Posit cloud 
+=====================
+
+
+- [Lab Biostatistics II](https://posit.cloud/content/8192111)
+
+- [Workshop on Dose-Response Meta-Analysis](https://posit.cloud/content/7969424)
+
+- [A modern demonstration of R for epidemiologists](https://posit.cloud/content/4558101)
+
+- [A not so short review on survival analysis in R](https://posit.cloud/content/5693044)
+
+
+<div style="height:50px"></div>
+
+
 Useful teaching material
 =====================
 
