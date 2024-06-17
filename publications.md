@@ -14,11 +14,14 @@ Publications
 ## 2024
 
 <ul class="fa-ul">
-  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
-Sabé M, Hyde J, Cramer C, Eberhard A, <b>Crippa A</b> A, Brunoni AR, Aleman A, Kaiser S, Baldwin DS, Garner M, Sentissi O. <a href="" target="_blank"> Transcranial Magnetic Stimulation and Transcranial Direct Current Stimulation Across Mental Disorders: A Systematic Review and Dose-Response Meta-Analysis</a>.  JAMA Network Open. 2024 May 1;7(5):e2412616-.</li>
-<div style="height:10px"></div>	
-
-<ul class="fa-ul">
+	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+	Klein T, Breilmann J, Schneider C, Girlanda F, Fiedler I, Dawson S, <b>Crippa A</b>, Priebe S, Barbui C, Becker T, Kösters M. <a href="" target="_blank"> Dose-response relationship in cognitive behavioral therapy for depression: A nonlinear metaregression analysis</a>. Journal of Consulting and Clinical Psychology. 2024 May;92(5):296.</li>
+	<div style="height:10px"></div>		
+	
+	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+	Sabé M, Hyde J, Cramer C, Eberhard A, <b>Crippa A</b> A, Brunoni AR, Aleman A, Kaiser S, Baldwin DS, Garner M, Sentissi O. <a href="" target="_blank"> Transcranial Magnetic Stimulation and Transcranial Direct Current Stimulation Across Mental Disorders: A Systematic Review and Dose-Response Meta-Analysis</a>. JAMA Network Open. 2024 May 1;7(5):e2412616.</li>
+	<div style="height:10px"></div>
+	
   <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
 Mayrhofer M, Bergstrom R, Chelappa V, Kotsalaynen A, Murugan SK, Crippa A, Laere BD, Urtishak K, Dalsgaard Sorensen K, Garg K, Singh U. <a href="" target="_blank"> Sensitive detection of copy number alterations in samples with low circulating tumor DNA fraction</a>.  medRxiv. 2024:2024-05.</li>
 <div style="height:10px"></div>		
