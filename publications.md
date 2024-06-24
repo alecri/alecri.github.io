@@ -15,6 +15,10 @@ Publications
 
 <ul class="fa-ul">
 	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+	Cruz-Sanabria F, Bruno S, <b>Crippa A</b>, Frumento P, Scarselli M, Skene DJ, Faraguna U. <a href="" target="_blank"> Optimizing the Time and Dose of Melatonin as a Sleep-Promoting Drug: A Systematic Review of Randomized Controlled Trials and Dose-Response Meta-Analysis</a>. Journal of pineal research. 2024 Aug;76(5):e12985.</li>
+	<div style="height:10px"></div>		
+	
+	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
 	Klein T, Breilmann J, Schneider C, Girlanda F, Fiedler I, Dawson S, <b>Crippa A</b>, Priebe S, Barbui C, Becker T, Kösters M. <a href="" target="_blank"> Dose-response relationship in cognitive behavioral therapy for depression: A nonlinear metaregression analysis</a>. Journal of Consulting and Clinical Psychology. 2024 May;92(5):296.</li>
 	<div style="height:10px"></div>		
 	
