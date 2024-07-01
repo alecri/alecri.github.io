@@ -9,19 +9,16 @@ About
 ========
 
 
-<div style="display: flex; align-items: center;">
-    <div style="width: 200px;">
-        <a href="/downloads/pic/profile_curr-circle.png" class="left img">
-            <img src="/downloads/pic/profile_curr-circle.png" style="width: 200px;">
-        </a>
-    </div>
-    <div style="margin-left: 20px;">
-        <ul>
-            <b>About me:</b><br>
-            I am a senior research specialist at the Department of Medical Epidemiology and Biostatistics (MEB) at Karolinska Institutet (KI).<br> 
-            I did all my undergraduate studies in Biostatistics at the University of Milan-Bicocca, a part from a six-semester stint at the Stockholm University where I studied Mathematical Statistics, and a six-semester stint at KI where I wrote my master thesis. I also did my PhD at Karolinska Institutet focusing on the development of novel methods for dose-response meta-analysis, with several applications to lifestyle factors and cancer. During my PhD, I spent three months in Boston at the Harvard T.H. Chan School of Public Health under the supervision of Prof. Donna Spiegelman. <br> Since 2018, I work at MEB as postdoctoral researcher, where my research focuses on the design and analysis of modern trials to reduce the prostate cancer mortality by using genetics biomarkers to individualized treatment decision.
-        </ul>
-    </div>
+<div>
+	<div style="width:200px;float:left;">
+		<a href="/downloads/pic/profile_curr-circle.png" class="left img"><img src="/downloads/pic/profile_curr-circle.png" style="width:200px;"></a>
+	</div>
+	<div style="margin-left:200px;">
+		<ul>
+				<b>About me:</b><br> I am a senior research specialist at the Department of Medical Epidemiology and Biostatistics (MEB) at Karolinska Institutet (KI).<br> 
+				I did all my undergraduate studies in Biostatistics at the University of Milan-Bicocca, a part from a six-semester stint at the Stockholm University where I studied Mathematical Statistics, and a six-semester stint at KI where I wrote my master thesis. I also did my Phd at Karolinska Institutet focusing on the development of novel methods for dose-response meta-analysis, with several applications to lifestyle factors and cancer. During my PhD, I spent three months in Boston at the Harvard T.H. Chan School of Public Health under the supervision of Prof. Donna Spiegelman. <br> Since 2018, I work at MEB as postdoctoral researcher, where my research focuses on the design and analysis of modern trials to reduce the prostate cancer mortality by using genetics biomarkers to individualized treatment decision.
+		</ul>
+</div>
 </div>
 
 &nbsp;
