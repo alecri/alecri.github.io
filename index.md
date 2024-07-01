@@ -11,7 +11,7 @@ About
 
 <div>
 	<div style="width:200px;float:left;">
-		<a href="/downloads/pic/profile_curr.png" class="left img"><img src="/downloads/pic/profile_curr.png" style="width:200px;"></a>
+		<a href="/downloads/pic/profile_curr-circle.png" class="left img"><img src="/downloads/pic/profile_curr-circle.png" style="width:200px;"></a>
 	</div>
 	<div style="margin-left:200px;">
 		<ul>
