@@ -15,6 +15,10 @@ Publications
 
 <ul class="fa-ul">
 	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+	De Laere, B.*, <b>Crippa A*</b>, Discacciati A, Larsson B, Persson M, Johansson S, D’hondt S, Bergström R, Chellappa V, Mayrhofer M, Banijamali M, et al. <a href="" target="_blank"> Androgen receptor pathway inhibitors and taxanes in metastatic prostate cancer: an outcome-adaptive randomized platform trial</a>. Nature Medicine. 2024 Aug 20:1-2 https://doi.org/10.1038/s41591-024-03204-2.</li>
+	<div style="height:10px"></div>		
+	
+	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
 	Cruz-Sanabria F, Bruno S, <b>Crippa A</b>, Frumento P, Scarselli M, Skene DJ, Faraguna U. <a href="" target="_blank"> Optimizing the Time and Dose of Melatonin as a Sleep-Promoting Drug: A Systematic Review of Randomized Controlled Trials and Dose-Response Meta-Analysis</a>. Journal of pineal research. 2024 Aug;76(5):e12985.</li>
 	<div style="height:10px"></div>		
 	
