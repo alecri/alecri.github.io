@@ -15,6 +15,10 @@ Publications
 
 <ul class="fa-ul">
 	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+	Abbadi A, Eklund M, Aly M, Clements M, <b>Crippa A</b>, Discacciati A, Björklund A, Lanka V, Micoli C, Lantz A, Grönberg H, Nordström T. <a href="" target="_blank"> Data Resource Profile: STHLM0, the Stockholm Prostate Cancer Diagnostics Register</a>.  International Journal of Epidemiology, Volume 54, Issue 3, June 2025, dyaf062.</li>
+	<div style="height:10px"></div>		
+
+	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
 	Dembrower KE, <b>Crippa A</b>, Eklund M, Strand F. <a href="" target="_blank"> Human-AI Interaction in the ScreenTrustCAD Trial: Recall Proportion and Positive Predictive Value Related to Screening Mammograms Flagged by AI CAD versus a Human Reader</a>. Radiology. 2025 Mar 18;314(3):e242566.</li>
 	<div style="height:10px"></div>		
 	
