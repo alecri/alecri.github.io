@@ -10,8 +10,7 @@ Publications
 ========
 
 
-
-## 2024
+## 2025
 
 <ul class="fa-ul">
 	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
@@ -19,9 +18,17 @@ Publications
 	<div style="height:10px"></div>		
 
 	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
-	Dembrower KE, <b>Crippa A</b>, Eklund M, Strand F. <a href="" target="_blank"> Human-AI Interaction in the ScreenTrustCAD Trial: Recall Proportion and Positive Predictive Value Related to Screening Mammograms Flagged by AI CAD versus a Human Reader</a>. Radiology. 2025 Mar 18;314(3):e242566.</li>
+	Dembrower KE, <b>Crippa A</b>, Eklund M, Strand F. <a href="" target="_blank"> Prognostic Value of the Circulating Tumor DNA Fraction in Metastatic Castration-resistant Prostate Cancer: Results from the ProBio Platform Trial</a>. European Urology Oncology. 2025 Apr 21.</li>
 	<div style="height:10px"></div>		
 	
+	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+	<b>Crippa A</b>, De Laere B, Discacciati A, Larsson B, Persson M, Johansson S, D’hondt S, Hjälm-Eriksson M, Pettersson L, Enblad G, Ullén A, et al. <a href="" target="_blank"> Human-AI Interaction in the ScreenTrustCAD Trial: Recall Proportion and Positive Predictive Value Related to Screening Mammograms Flagged by AI CAD versus a Human Reader</a>. Radiology. 2025 Mar 18;314(3):e242566.</li>
+	<div style="height:10px"></div>		
+</ul>
+
+## 2024
+
+<ul class="fa-ul">
 	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
 	Hammarström M, Gabrielson M, Bergqvist J, Lundholm C, <b>Crippa A</b>, Bäcklund M, Wengström Y, Borgquist S, Eliasson E, Eriksson M, Tapia J, et al. <a href="" target="_blank"> Influence of endoxifen on mammographic density—results from the KARISMA trial</a>. JNCI: Journal of the National Cancer Institute. 2024 Nov 8:djae280.</li>
 	<div style="height:10px"></div>		
