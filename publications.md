@@ -14,16 +14,20 @@ Publications
 
 <ul class="fa-ul">
 	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+	Simone B, Cenerini G, Giudice LL, Cruz-Sanabria F, Benedetti D, <b>Crippa A</b>, Fiori S, Ferri R, Masi G, Faraguna U. <a href="" target="_blank"> Optimizing timing and dose of exogenous melatonin administration in neuropsychiatric pediatric populations: a meta-analysis on sleep outcomes</a>.  Sleep Medicine Reviews. 2025 Aug 30:102158.</li>
+	<div style="height:10px"></div>		
+	
+	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
 	Abbadi A, Eklund M, Aly M, Clements M, <b>Crippa A</b>, Discacciati A, Björklund A, Lanka V, Micoli C, Lantz A, Grönberg H, Nordström T. <a href="" target="_blank"> Data Resource Profile: STHLM0, the Stockholm Prostate Cancer Diagnostics Register</a>.  International Journal of Epidemiology, Volume 54, Issue 3, June 2025, dyaf062.</li>
 	<div style="height:10px"></div>		
 
 	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
-	Dembrower KE, <b>Crippa A</b>, Eklund M, Strand F. <a href="" target="_blank"> Prognostic Value of the Circulating Tumor DNA Fraction in Metastatic Castration-resistant Prostate Cancer: Results from the ProBio Platform Trial</a>. European Urology Oncology. 2025 Apr 21.</li>
+	<b>Crippa A</b>, De Laere B, Discacciati A, Larsson B, Persson M, Johansson S, D’hondt S, Hjälm-Eriksson M, Pettersson L, Enblad G, Ullén A, et al. <a href="" target="_blank"> Prognostic Value of the Circulating Tumor DNA Fraction in Metastatic Castration-resistant Prostate Cancer: Results from the ProBio Platform Trial</a>. European Urology Oncology. 2025 Apr 21.</li>
 	<div style="height:10px"></div>		
 	
 	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
-	<b>Crippa A</b>, De Laere B, Discacciati A, Larsson B, Persson M, Johansson S, D’hondt S, Hjälm-Eriksson M, Pettersson L, Enblad G, Ullén A, et al. <a href="" target="_blank"> Human-AI Interaction in the ScreenTrustCAD Trial: Recall Proportion and Positive Predictive Value Related to Screening Mammograms Flagged by AI CAD versus a Human Reader</a>. Radiology. 2025 Mar 18;314(3):e242566.</li>
-	<div style="height:10px"></div>		
+	Dembrower KE, <b>Crippa A</b>, Eklund M, Strand F. <a href="" target="_blank"> Human-AI Interaction in the ScreenTrustCAD Trial: Recall Proportion and Positive Predictive Value Related to Screening Mammograms Flagged by AI CAD versus a Human Reader</a>. Radiology. 2025 Mar 18;314(3):e242566.</li>
+	<div style="height:10px"></div>	
 </ul>
 
 ## 2024
