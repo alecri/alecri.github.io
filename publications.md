@@ -10,9 +10,23 @@ Publications
 ========
 
 
+## 2026
+
+<ul class="fa-ul">
+	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+	Micoli C, <b>Crippa A</b>, Connor JT, I‐SPY COVID Consortium, Eklund M, Discacciati A. <a href="" target="_blank"> Simulation‐Based Bayesian Predictive Probability of Success for Interim Monitoring of Clinical Trials With Competing Event Data: Two Case Studies</a>.  Pharmaceutical Statistics. 2026 Jan;25(1):e70050.</li>
+	<div style="height:10px"></div>		
+	
+</ul>
+
+
 ## 2025
 
 <ul class="fa-ul">
+	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
+	Arvendell M, Abbadi A, Phillips L, <b>Crippa A</b>, Nordström T, Lantz A. <a href="" target="_blank"> Socioeconomic Status and Prostate-specific Antigen Testing: A Population-based Cohort Study Comparing Organised and Opportunistic Prostate Cancer Testing</a>.  European Urology Focus. 2025 Dec 26.</li>
+	<div style="height:10px"></div>		
+	
 	  <li><a href="" target="_blank"><i class="fa-li fa fa-file-text"></i></a> 
 	Simone B, Cenerini G, Giudice LL, Cruz-Sanabria F, Benedetti D, <b>Crippa A</b>, Fiori S, Ferri R, Masi G, Faraguna U. <a href="" target="_blank"> Optimizing timing and dose of exogenous melatonin administration in neuropsychiatric pediatric populations: a meta-analysis on sleep outcomes</a>.  Sleep Medicine Reviews. 2025 Aug 30:102158.</li>
 	<div style="height:10px"></div>		
